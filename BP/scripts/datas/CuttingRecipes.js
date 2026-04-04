@@ -41,7 +41,7 @@ export const CuttingBoardRecipes = [
     },
     {
         "ingredients": {
-            "tag": "forge:rice_dough"
+            "item": "farmersdelightplus:rice_dough"
         },
         "result": [
             {
@@ -57,7 +57,7 @@ export const CuttingBoardRecipes = [
     },
     {
         "ingredients": {
-            "tag": "minecraft:wool"
+            "item": "minecraft:wool"
         },
         "result": [
             {

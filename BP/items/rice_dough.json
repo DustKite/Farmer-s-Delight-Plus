@@ -10,6 +10,11 @@
                 "nutrition": 2,
                 "saturation_modifier": 0.3
             },
+            "minecraft:tags": {
+                "tags": [
+                    "farmersdelightplus:is_rice_dough"
+                ]
+            },
             "minecraft:use_animation": "eat",
             "minecraft:icon": {
                 "textures": {

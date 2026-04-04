@@ -9,7 +9,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 };
 import { ItemStopUseAfterEvent, world } from "@minecraft/server";
 import { EventAPI } from "../lib/EventAPI";
-export class FoodsRegister {
+export class Foodsregister {
     eat(args) {
         const itemStack = args.itemStack;
         const player = args.source;
@@ -94,4 +94,4 @@ __decorate([
     __metadata("design:type", Function),
     __metadata("design:paramtypes", [ItemStopUseAfterEvent]),
     __metadata("design:returntype", void 0)
-], FoodsRegister.prototype, "eat", null);
+], Foodsregister.prototype, "eat", null);

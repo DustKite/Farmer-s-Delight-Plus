@@ -13,7 +13,7 @@
     },
     "ingredients": [
       {
-        "tag": "forge:salad_ingredients"
+        "tag": "farmersdelight:is_cabbage"
       },
       {
         "item": "minecraft:glow_berries"

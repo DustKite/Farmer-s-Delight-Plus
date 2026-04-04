@@ -25,7 +25,7 @@
         "item": "minecraft:sweet_berries"
       },
       {
-        "tag": "forge:salad_ingredients"
+        "tag": "farmersdelight:is_cabbage"
       },
       {
         "item": "farmersdelight:cooked_rice"

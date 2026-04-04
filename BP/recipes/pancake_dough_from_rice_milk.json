@@ -2,7 +2,7 @@
   "format_version": "1.12",
   "minecraft:recipe_shapeless": {
     "description": {
-      "identifier": "farmersdelightplus:pancake_dough"
+      "identifier": "farmersdelightplus:pancake_dough_from_rice_milk"
     },
     "tags": [
       "crafting_table"
@@ -16,7 +16,7 @@
         "item": "farmersdelightplus:rice_dough"
       },
       {
-        "tag": "forge:pancake_dough_liquid"
+        "tag": "farmersdelight:is_milk"
       }
     ]
   }

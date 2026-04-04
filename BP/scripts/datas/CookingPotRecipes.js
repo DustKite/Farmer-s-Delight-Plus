@@ -44,12 +44,22 @@ const CookingPotRecipes = [
             {
                 "item": "minecraft:apple"
             },
-            {
-                "tag": "forge:compote_berries"
-            },
-            {
-                "tag": "forge:compote_berries"
-            },
+            [
+                {
+                    "item": "minecraft:glow_berries"
+                },
+                {
+                    "item": "minecraft:sweet_berries"
+                }
+            ],
+            [
+                {
+                    "item": "minecraft:glow_berries"
+                },
+                {
+                    "item": "minecraft:sweet_berries"
+                }
+            ],
             {
                 "item": "minecraft:sugar"
             },
@@ -80,9 +90,13 @@ const CookingPotRecipes = [
             {
                 "item": "farmersdelight:rice"
             },
-            {
-                "tag": "forge:risotto_meat"
-            },
+            [
+                { "tag": "farmersdelight:is_raw_chicken" },
+                { "item": "minecraft:chicken" },
+                { "item": "farmersdelight:cod_slice" },
+                { "item": "minecraft:cod" },
+                { "item": "minecraft:brown_mushroom" }
+            ],
             {
                 "item": "minecraft:egg"
             }
@@ -183,7 +197,7 @@ const CookingPotRecipes = [
                 "item": "minecraft:sugar"
             },
             {
-                "tag": "forge:salad_ingredients"
+                "tag": "farmersdelight:is_cabbage"
             }
         ],
         "result": {
@@ -218,7 +232,7 @@ const CookingPotRecipes = [
                 }
             ],
             {
-                "tag": "forge:pasta/raw_pasta"
+                "tag": "farmersdelight:is_pasta"
             },
             {
                 "item": "minecraft:glow_ink_sac"
@@ -260,7 +274,7 @@ const CookingPotRecipes = [
                 "item": "minecraft:beetroot"
             },
             {
-                "tag": "forge:salad_ingredients"
+                "tag": "farmersdelight:is_cabbage"
             }
         ],
         "result": {
@@ -344,7 +358,7 @@ const CookingPotRecipes = [
         "experience": 1.0,
         "ingredients": [
             {
-                "tag": "forge:pasta/raw_rice_noodle"
+                "item": "farmersdelightplus:raw_rice_noodle"
             },
             [
                 {
@@ -357,12 +371,22 @@ const CookingPotRecipes = [
             {
                 "tag": "farmersdelight:is_onion"
             },
-            {
-                "tag": "forge:lagman_base"
-            },
-            {
-                "tag": "forge:lagman_stuff"
-            }
+            [
+                {
+                    "tag": "farmersdelight:is_cabbage"
+                },
+                {
+                    "tag": "minecraft:potato"
+                }
+            ],
+            [
+                {
+                    "tag": "farmersdelight:is_tomato"
+                },
+                {
+                    "tag": "minecraft:carrot"
+                }
+            ]
         ],
         "result": {
             "item": "farmersdelightplus:lagman",
@@ -390,7 +414,7 @@ const CookingPotRecipes = [
                 }
             ],
             {
-                "tag": "forge:pasta/raw_rice_noodle"
+                "tag": "farmersdelightplus:raw_rice_noodle"
             },
             {
                 "tag": "farmersdelight:is_onion"
@@ -419,9 +443,15 @@ const CookingPotRecipes = [
             {
                 "tag": "farmersdelight:is_rice"
             },
-            {
-                "tag": "forge:raw_mutton"
-            },
+            [
+                {
+                    "item": "minecraft:mutton"
+                },
+                {
+                    "tag": "farmersdelight:is_raw_mutton"
+                },
+                { "item": "better_on_bedrock:raw_mutton_chops" }
+            ],
             {
                 "item": "minecraft:carrot"
             }
@@ -450,7 +480,7 @@ const CookingPotRecipes = [
                 "item": "minecraft:tropical_fish"
             },
             {
-                "item": "minecraft:frogspawn"
+                "item": "minecraft:frog_spawn"
             },
             {
                 "tag": "farmersdelight:is_rice"
@@ -476,9 +506,13 @@ const CookingPotRecipes = [
             {
                 "tag": "farmersdelight:is_rice"
             },
-            {
-                "tag": "forge:risotto_meat"
-            },
+            [
+                { "tag": "farmersdelight:is_raw_chicken" },
+                { "item": "minecraft:chicken" },
+                { "item": "farmersdelight:cod_slice" },
+                { "item": "minecraft:cod" },
+                { "item": "minecraft:brown_mushroom" }
+            ],
             {
                 "item": "minecraft:sea_pickle"
             },
@@ -513,7 +547,7 @@ const CookingPotRecipes = [
                 "item": "minecraft:glow_berries"
             },
             {
-                "tag": "forge:salad_ingredients"
+                "tag": "farmersdelight:is_cabbage"
             }
         ],
         "result": {

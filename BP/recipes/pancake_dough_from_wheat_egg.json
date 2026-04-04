@@ -2,21 +2,21 @@
   "format_version": "1.12",
   "minecraft:recipe_shapeless": {
     "description": {
-      "identifier": "autumnity:pancake"
+      "identifier": "farmersdelightplus:pancake_dough_from_wheat_egg"
     },
     "tags": [
       "crafting_table"
     ],
     "result": {
-      "item": "autumnity:pancake",
-      "count": 1
+      "item": "farmersdelightplus:pancake_dough",
+      "count": 2
     },
     "ingredients": [
       {
-        "item": "farmersdelightplus:empty_pancake"
+        "item": "farmersdelight:wheat_dough"
       },
       {
-        "item": "autumnity:syrup_bottle"
+        "tag": "minecraft:egg"
       }
     ]
   }
