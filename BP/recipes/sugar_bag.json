@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "farmersdelightplus:sugar_bag"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "result": {
+      "item": "farmersdelightplus:sugar_bag",
+      "count": 1
+    },
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:sugar"
+      }
+    }
+  }
+}

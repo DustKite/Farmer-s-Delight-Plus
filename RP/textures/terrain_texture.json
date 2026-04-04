@@ -1,0 +1,76 @@
+{
+  "texture_data": {
+    "berry_pancake_side": {
+      "textures": "textures/blocks/berry_pancake_side"
+    },
+    "berry_pancake_top": {
+      "textures": "textures/blocks/berry_pancake_top"
+    },
+    "chocolate_pancake_side": {
+      "textures": "textures/blocks/chocolate_pancake_side"
+    },
+    "chocolate_pancake_top": {
+      "textures": "textures/blocks/chocolate_pancake_top"
+    },
+    "cooked_beef": {
+      "textures": "textures/blocks/cooked_beef"
+    },
+    "empty_pancake_side": {
+      "textures": "textures/blocks/empty_pancake_side"
+    },
+    "empty_pancake_top": {
+      "textures": "textures/blocks/empty_pancake_top"
+    },
+    "glow_berry_barrel_top": {
+      "textures": "textures/blocks/glow_berry_barrel_top"
+    },
+    "golden_carrot_crate_side": {
+      "textures": "textures/blocks/golden_carrot_crate_side"
+    },
+    "golden_carrot_crate_top": {
+      "textures": "textures/blocks/golden_carrot_crate_top"
+    },
+    "honey_pancake_side": {
+      "textures": "textures/blocks/honey_pancake_side"
+    },
+    "honey_pancake_top": {
+      "textures": "textures/blocks/honey_pancake_top"
+    },
+    "minotaur_rib_cage": {
+      "textures": "textures/blocks/minotaur_rib_cage"
+    },
+    "pancake_bottom": {
+      "textures": "textures/blocks/pancake_bottom"
+    },
+    "pancake_side": {
+      "textures": "textures/blocks/pancake_side"
+    },
+    "rice_with_dragon_egg_filling": {
+      "textures": "textures/blocks/rice_with_dragon_egg_filling"
+    },
+    "sugar_bag_side": {
+      "textures": "textures/blocks/sugar_bag_side"
+    },
+    "sugar_bag_side_tied": {
+      "textures": "textures/blocks/sugar_bag_side_tied"
+    },
+    "sugar_bag_top": {
+      "textures": "textures/blocks/sugar_bag_top"
+    },
+    "sweet_berry_barrel_top": {
+      "textures": "textures/blocks/sweet_berry_barrel_top"
+    },
+    "tray_rice_honey_garnish": {
+      "textures": "textures/blocks/tray_rice_honey_garnish"
+    },
+    "tray_rice_honey_leftover": {
+      "textures": "textures/blocks/tray_rice_honey_leftover"
+    },
+    "tray_rice_with_tomato_sauce": {
+      "textures": "textures/blocks/tray_rice_with_tomato_sauce"
+    },
+    "tray_rice_with_tomato_sauce_leftover": {
+      "textures": "textures/blocks/tray_rice_with_tomato_sauce_leftover"
+    }
+  }
+}

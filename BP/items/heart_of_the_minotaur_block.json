@@ -1,0 +1,24 @@
+{
+    "format_version": "1.26.0",
+    "minecraft:item": {
+        "components": {
+            "minecraft:max_stack_size": 1,
+            "minecraft:block_placer": {
+                "block": "farmersdelightplus:heart_of_the_minotaur_block",
+                "replace_block_item": true
+            },
+            "minecraft:icon": {
+                "textures": {
+                    "default": "heart_of_the_minotaur_block"
+                }
+            }
+        },
+        "description": {
+            "identifier": "farmersdelightplus:heart_of_the_minotaur_block",
+            "menu_category": {
+                "category": "equipment",
+                "group": "farmersdelight:itemGroup.name.miscFood"
+            }
+        }
+    }
+}

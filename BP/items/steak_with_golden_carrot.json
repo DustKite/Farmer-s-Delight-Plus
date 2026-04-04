@@ -1,0 +1,29 @@
+{
+    "format_version": "1.26.0",
+    "minecraft:item": {
+        "components": {
+            "minecraft:use_modifiers": {
+                "use_duration": 1.6
+            },
+            "minecraft:max_stack_size": 16,
+            "minecraft:food": {
+                "nutrition": 16,
+                "saturation_modifier": 0.95,
+                "using_converts_to": "minecraft:bowl"
+            },
+            "minecraft:use_animation": "eat",
+            "minecraft:icon": {
+                "textures": {
+                    "default": "steak_with_golden_carrot"
+                }
+            }
+        },
+        "description": {
+            "identifier": "farmersdelightplus:steak_with_golden_carrot",
+            "menu_category": {
+                "category": "equipment",
+                "group": "farmersdelight:itemGroup.name.miscFood"
+            }
+        }
+    }
+}

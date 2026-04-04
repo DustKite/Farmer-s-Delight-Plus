@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraft:glow_berries"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "result": {
+      "item": "minecraft:glow_berries",
+      "count": 9
+    },
+    "ingredients": [
+      {
+        "item": "farmersdelightplus:glow_berry_barrel"
+      }
+    ]
+  }
+}

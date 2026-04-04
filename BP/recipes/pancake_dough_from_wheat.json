@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "farmersdelightplus:pancake_dough"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "result": {
+      "item": "farmersdelightplus:pancake_dough",
+      "count": 2
+    },
+    "ingredients": [
+      {
+        "item": "farmersdelight:wheat_dough"
+      },
+      {
+        "tag": "forge:pancake_dough_liquid"
+      }
+    ]
+  }
+}

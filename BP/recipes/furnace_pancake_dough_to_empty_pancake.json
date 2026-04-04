@@ -1,0 +1,13 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "farmersdelightplus:empty_pancake_furnace"
+    },
+    "tags": [
+      "campfire"
+    ],
+    "input": "farmersdelightplus:pancake_dough",
+    "output": "farmersdelightplus:empty_pancake"
+  }
+}

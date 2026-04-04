@@ -1,0 +1,32 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "farmersdelightplus:call_of_the_seas"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "result": {
+      "item": "farmersdelightplus:call_of_the_seas",
+      "count": 1
+    },
+    "ingredients": [
+      {
+        "item": "minecraft:ice"
+      },
+      {
+        "item": "minecraft:sugar_cane"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:sweet_berries"
+      },
+      {
+        "item": "minecraft:nautilus_shell"
+      }
+    ]
+  }
+}

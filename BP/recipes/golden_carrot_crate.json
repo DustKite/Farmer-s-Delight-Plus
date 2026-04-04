@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "farmersdelightplus:golden_carrot_crate"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "result": {
+      "item": "farmersdelightplus:golden_carrot_crate",
+      "count": 1
+    },
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:golden_carrot"
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "autumnity:pancake"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "result": {
+      "item": "autumnity:pancake",
+      "count": 1
+    },
+    "ingredients": [
+      {
+        "item": "farmersdelightplus:empty_pancake"
+      },
+      {
+        "item": "autumnity:syrup_bottle"
+      }
+    ]
+  }
+}

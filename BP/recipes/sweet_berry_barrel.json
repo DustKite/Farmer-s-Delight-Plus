@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "farmersdelightplus:sweet_berry_barrel"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "result": {
+      "item": "farmersdelightplus:sweet_berry_barrel",
+      "count": 1
+    },
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:sweet_berries"
+      }
+    }
+  }
+}

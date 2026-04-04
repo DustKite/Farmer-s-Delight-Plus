@@ -1,0 +1,32 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "farmersdelightplus:shining_salad"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "result": {
+      "item": "farmersdelightplus:shining_salad",
+      "count": 1
+    },
+    "ingredients": [
+      {
+        "tag": "forge:salad_ingredients"
+      },
+      {
+        "item": "minecraft:glow_berries"
+      },
+      {
+        "item": "farmersdelight:pumpkin_slice"
+      },
+      {
+        "item": "minecraft:carrot"
+      },
+      {
+        "item": "minecraft:bowl"
+      }
+    ]
+  }
+}

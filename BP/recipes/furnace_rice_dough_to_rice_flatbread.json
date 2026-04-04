@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "farmersdelightplus:rice_flatbread_furnace"
+    },
+    "tags": [
+      "furnace",
+      "smoker"
+    ],
+    "input": "farmersdelightplus:rice_dough",
+    "output": "farmersdelightplus:rice_flatbread"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "farmersdelightplus:cooked_pufferfish_slice_furnace"
+    },
+    "tags": [
+      "furnace",
+      "smoker"
+    ],
+    "input": "farmersdelightplus:pufferfish_slice",
+    "output": "farmersdelightplus:cooked_pufferfish_slice"
+  }
+}

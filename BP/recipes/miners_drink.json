@@ -1,0 +1,35 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "farmersdelightplus:miners_drink"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "result": {
+      "item": "farmersdelightplus:miners_drink",
+      "count": 1
+    },
+    "ingredients": [
+      {
+        "item": "minecraft:glow_berries"
+      },
+      {
+        "item": "minecraft:azalea_leaves"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:glowstone_dust"
+      },
+      {
+        "item": "farmersdelight:milk_bottle"
+      },
+      {
+        "item": "minecraft:glass_bottle"
+      }
+    ]
+  }
+}

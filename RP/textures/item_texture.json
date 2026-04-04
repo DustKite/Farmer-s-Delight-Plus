@@ -1,0 +1,123 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "assorted_pufferfish_in_tomato_sauce": {
+      "textures": "textures/items/assorted_pufferfish_in_tomato_sauce"
+    },
+    "berry_compote": {
+      "textures": "textures/items/berry_compote"
+    },
+    "berry_pancake": {
+      "textures": "textures/items/berry_pancake"
+    },
+    "blessed_icon": {
+      "textures": "textures/items/blessed_icon"
+    },
+    "breaded_rice_balls": {
+      "textures": "textures/items/breaded_rice_balls"
+    },
+    "cactus_tea": {
+      "textures": "textures/items/cactus_tea"
+    },
+    "call_of_the_seas": {
+      "textures": "textures/items/call_of_the_seas"
+    },
+    "candied_slime": {
+      "textures": "textures/items/candied_slime"
+    },
+    "chilled_sweet_berry_juice": {
+      "textures": "textures/items/chilled_sweet_berry_juice"
+    },
+    "chocolate_glazed_chicken": {
+      "textures": "textures/items/chocolate_glazed_chicken"
+    },
+    "chocolate_pancake": {
+      "textures": "textures/items/chocolate_pancake"
+    },
+    "cooked_pufferfish_slice": {
+      "textures": "textures/items/cooked_pufferfish_slice"
+    },
+    "empty_pancake": {
+      "textures": "textures/items/empty_pancake"
+    },
+    "festive_porkchop_with_berries": {
+      "textures": "textures/items/festive_porkchop_with_berries"
+    },
+    "glow_ink_pasta": {
+      "textures": "textures/items/glow_ink_pasta"
+    },
+    "heart_of_the_minotaur": {
+      "textures": "textures/items/heart_of_the_minotaur"
+    },
+    "heart_of_the_minotaur_block": {
+      "textures": "textures/items/heart_of_the_minotaur_block"
+    },
+    "honey_pancake": {
+      "textures": "textures/items/honey_pancake"
+    },
+    "honeyed_rice_with_berries": {
+      "textures": "textures/items/honeyed_rice_with_berries"
+    },
+    "honeyed_rice_with_dragon_egg": {
+      "textures": "textures/items/honeyed_rice_with_dragon_egg"
+    },
+    "honeyed_rice_with_dragon_egg_block": {
+      "textures": "textures/items/honeyed_rice_with_dragon_egg_block"
+    },
+    "lagman": {
+      "textures": "textures/items/lagman"
+    },
+    "long_cactus_tea": {
+      "textures": "textures/items/long_cactus_tea"
+    },
+    "mashed_potatoes_with_meatballs": {
+      "textures": "textures/items/mashed_potatoes_with_meatballs"
+    },
+    "miners_drink": {
+      "textures": "textures/items/miners_drink"
+    },
+    "pancake_dough": {
+      "textures": "textures/items/pancake_dough"
+    },
+    "pho_soup": {
+      "textures": "textures/items/pho_soup"
+    },
+    "pufferfish_slice": {
+      "textures": "textures/items/pufferfish_slice"
+    },
+    "raw_rice_noodle": {
+      "textures": "textures/items/raw_rice_noodle"
+    },
+    "rice_dough": {
+      "textures": "textures/items/rice_dough"
+    },
+    "rice_flatbread": {
+      "textures": "textures/items/rice_flatbread"
+    },
+    "rice_pilaf": {
+      "textures": "textures/items/rice_pilaf"
+    },
+    "rice_with_frogspawn": {
+      "textures": "textures/items/rice_with_frogspawn"
+    },
+    "risotto": {
+      "textures": "textures/items/risotto"
+    },
+    "shining_salad": {
+      "textures": "textures/items/shining_salad"
+    },
+    "sparkling_potato": {
+      "textures": "textures/items/sparkling_potato"
+    },
+    "steak_with_golden_carrot": {
+      "textures": "textures/items/steak_with_golden_carrot"
+    },
+    "strong_cactus_tea": {
+      "textures": "textures/items/strong_cactus_tea"
+    },
+    "turtle_soup": {
+      "textures": "textures/items/turtle_soup"
+    }
+  }
+}

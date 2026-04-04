@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "farmersdelightplus:chocolate_pancake"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "result": {
+      "item": "farmersdelightplus:chocolate_pancake",
+      "count": 1
+    },
+    "ingredients": [
+      {
+        "item": "farmersdelightplus:empty_pancake"
+      },
+      {
+        "item": "minecraft:cocoa_beans"
+      },
+      {
+        "item": "farmersdelight:milk_bottle"
+      },
+      {
+        "item": "minecraft:sugar"
+      }
+    ]
+  }
+}
