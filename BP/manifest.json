@@ -1,0 +1,62 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "pack.name",
+    "description": "pack.description",
+    "uuid": "46b961d3-6f99-4bfd-8c14-ffe79170a38e",
+    "version": [
+      5,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      26,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "a2229111-b28c-4d24-b0c7-447bf0e56506",
+      "version": [
+        5,
+        0,
+        0
+      ]
+    },
+    {
+      "description": "Farmer's Delight: Plus Scripts",
+      "type": "script",
+      "language": "javascript",
+      "uuid": "46dd3c5a-6665-46ef-aa86-083902a15327",
+      "version": [
+        5,
+        0,
+        0
+      ],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Dust_Kite/Elaikes"
+    ],
+    "license": "MIT",
+    "product_type": "addon"
+  },
+  "dependencies": [
+    {
+      "uuid": "8a79c252-8c47-4dd4-8bdc-7e3d9c523aa4",
+      "version": [
+        5,
+        0,
+        0
+      ]
+    },
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.0.0"
+    }
+  ]
+}
