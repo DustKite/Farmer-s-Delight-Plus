@@ -11,9 +11,6 @@
     "berry_pancake": {
       "textures": "textures/items/berry_pancake"
     },
-    "blessed_icon": {
-      "textures": "textures/items/blessed_icon"
-    },
     "breaded_rice_balls": {
       "textures": "textures/items/breaded_rice_balls"
     },
@@ -68,9 +65,6 @@
     "lagman": {
       "textures": "textures/items/lagman"
     },
-    "long_cactus_tea": {
-      "textures": "textures/items/long_cactus_tea"
-    },
     "mashed_potatoes_with_meatballs": {
       "textures": "textures/items/mashed_potatoes_with_meatballs"
     },
@@ -112,9 +106,6 @@
     },
     "steak_with_golden_carrot": {
       "textures": "textures/items/steak_with_golden_carrot"
-    },
-    "strong_cactus_tea": {
-      "textures": "textures/items/strong_cactus_tea"
     },
     "turtle_soup": {
       "textures": "textures/items/turtle_soup"

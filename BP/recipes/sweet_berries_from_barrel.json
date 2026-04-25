@@ -2,7 +2,7 @@
   "format_version": "1.12",
   "minecraft:recipe_shapeless": {
     "description": {
-      "identifier": "minecraft:sweet_berries"
+      "identifier": "farmersdelightplus:sweet_berries"
     },
     "tags": [
       "crafting_table"
