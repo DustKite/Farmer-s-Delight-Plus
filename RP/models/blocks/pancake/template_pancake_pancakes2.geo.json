@@ -1,35 +1,112 @@
 {
-	"format_version": "1.21.0",
-	"minecraft:geometry": [
-		{
-			"description": {
-				"identifier": "geometry.template_pancake_pancakes2",
-				"texture_width": 16,
-				"texture_height": 16,
-				"visible_bounds_width": 2,
-				"visible_bounds_height": 1.5,
-				"visible_bounds_offset": [0, 0.25, 0]
-			},
-			"bones": [
-				{
-					"name": "bone",
-					"pivot": [8, 0, -8],
-					"cubes": [
-						{
-							"origin": [-5, 0, -5],
-							"size": [10, 2, 10],
-							"uv": {
-								"north": {"uv": [3, 14], "uv_size": [10, 2]},
-								"east": {"uv": [3, 14], "uv_size": [10, 2]},
-								"south": {"uv": [3, 14], "uv_size": [10, 2]},
-								"west": {"uv": [3, 14], "uv_size": [10, 2]},
-								"up": {"uv": [13, 13], "uv_size": [-10, -10], "uv_rotation": 270},
-								"down": {"uv": [13, 13], "uv_size": [-10, -10]}
-							}
-						}
-					]
-				}
-			]
-		}
-	]
+    "format_version": "1.21.0",
+    "minecraft:geometry": [
+        {
+            "description": {
+                "identifier": "geometry.template_pancake_pancakes2",
+                "texture_width": 16,
+                "texture_height": 16,
+                "visible_bounds_width": 2,
+                "visible_bounds_height": 1.5,
+                "visible_bounds_offset": [
+                    0,
+                    0.25,
+                    0
+                ]
+            },
+            "bones": [
+                {
+                    "name": "bone",
+                    "pivot": [
+                        8,
+                        0,
+                        -8
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                -5,
+                                0,
+                                -5
+                            ],
+                            "size": [
+                                10,
+                                2,
+                                10
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        3,
+                                        14
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        2
+                                    ],
+                                    "material_instance": "side"
+                                },
+                                "east": {
+                                    "uv": [
+                                        3,
+                                        14
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        2
+                                    ],
+                                    "material_instance": "side"
+                                },
+                                "south": {
+                                    "uv": [
+                                        3,
+                                        14
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        2
+                                    ],
+                                    "material_instance": "side"
+                                },
+                                "west": {
+                                    "uv": [
+                                        3,
+                                        14
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        2
+                                    ],
+                                    "material_instance": "side"
+                                },
+                                "up": {
+                                    "uv": [
+                                        13,
+                                        13
+                                    ],
+                                    "uv_size": [
+                                        -10,
+                                        -10
+                                    ],
+                                    "uv_rotation": 270,
+                                    "material_instance": "top"
+                                },
+                                "down": {
+                                    "uv": [
+                                        13,
+                                        13
+                                    ],
+                                    "uv_size": [
+                                        -10,
+                                        -10
+                                    ],
+                                    "material_instance": "bottom"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

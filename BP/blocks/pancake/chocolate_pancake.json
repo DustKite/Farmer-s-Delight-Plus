@@ -1,0 +1,622 @@
+{
+  "format_version": "1.26.0",
+  "minecraft:block": {
+    "description": {
+      "identifier": "farmersdelightplus:chocolate_pancake",
+      "states": {
+        "farmersdelightplus:pancake_stage": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      },
+      "traits": {
+        "minecraft:placement_direction": {
+          "enabled_states": [
+            "minecraft:cardinal_direction"
+          ],
+          "y_rotation_offset": 0.0
+        }
+      }
+    },
+    "permutations": [
+      {
+        "condition": "query.block_state('farmersdelightplus:pancake_stage') == 1",
+        "components": {
+          "minecraft:collision_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              1.0,
+              10.0
+            ]
+          },
+          "minecraft:selection_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              1.0,
+              10.0
+            ]
+          },
+          "minecraft:geometry": "geometry.template_pancake_pancakes1"
+        }
+      },
+      {
+        "condition": "query.block_state('farmersdelightplus:pancake_stage') == 2",
+        "components": {
+          "minecraft:collision_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              2.0,
+              10.0
+            ]
+          },
+          "minecraft:selection_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              2.0,
+              10.0
+            ]
+          },
+          "minecraft:geometry": "geometry.template_pancake_pancakes2"
+        }
+      },
+      {
+        "condition": "query.block_state('farmersdelightplus:pancake_stage') == 3",
+        "components": {
+          "minecraft:collision_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              3.0,
+              10.0
+            ]
+          },
+          "minecraft:selection_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              3.0,
+              10.0
+            ]
+          },
+          "minecraft:geometry": "geometry.template_pancake_pancakes3"
+        }
+      },
+      {
+        "condition": "query.block_state('farmersdelightplus:pancake_stage') == 4",
+        "components": {
+          "minecraft:collision_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              4.0,
+              10.0
+            ]
+          },
+          "minecraft:selection_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              4.0,
+              10.0
+            ]
+          },
+          "minecraft:geometry": "geometry.template_pancake_pancakes4"
+        }
+      },
+      {
+        "condition": "query.block_state('farmersdelightplus:pancake_stage') == 5",
+        "components": {
+          "minecraft:collision_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              5.0,
+              10.0
+            ]
+          },
+          "minecraft:selection_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              5.0,
+              10.0
+            ]
+          },
+          "minecraft:geometry": "geometry.template_pancake_pancakes5"
+        }
+      },
+      {
+        "condition": "query.block_state('farmersdelightplus:pancake_stage') == 6",
+        "components": {
+          "minecraft:collision_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              6.0,
+              10.0
+            ]
+          },
+          "minecraft:selection_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              6.0,
+              10.0
+            ]
+          },
+          "minecraft:geometry": "geometry.template_pancake_pancakes6"
+        }
+      },
+      {
+        "condition": "query.block_state('farmersdelightplus:pancake_stage') == 7",
+        "components": {
+          "minecraft:collision_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              7.0,
+              10.0
+            ]
+          },
+          "minecraft:selection_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              7.0,
+              10.0
+            ]
+          },
+          "minecraft:geometry": "geometry.template_pancake_pancakes7"
+        }
+      },
+      {
+        "condition": "query.block_state('farmersdelightplus:pancake_stage') == 8",
+        "components": {
+          "minecraft:collision_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              8.0,
+              10.0
+            ]
+          },
+          "minecraft:selection_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              8.0,
+              10.0
+            ]
+          },
+          "minecraft:geometry": "geometry.template_pancake_pancakes8"
+        }
+      },
+      {
+        "condition": "query.block_state('farmersdelightplus:pancake_stage') == 9",
+        "components": {
+          "minecraft:collision_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              9.0,
+              10.0
+            ]
+          },
+          "minecraft:selection_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              9.0,
+              10.0
+            ]
+          },
+          "minecraft:geometry": "geometry.template_pancake_pancakes9"
+        }
+      },
+      {
+        "condition": "query.block_state('farmersdelightplus:pancake_stage') == 10",
+        "components": {
+          "minecraft:collision_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              10.0,
+              10.0
+            ]
+          },
+          "minecraft:selection_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              10.0,
+              10.0
+            ]
+          },
+          "minecraft:geometry": "geometry.template_pancake_pancakes10"
+        }
+      },
+      {
+        "condition": "query.block_state('farmersdelightplus:pancake_stage') == 11",
+        "components": {
+          "minecraft:collision_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              11.0,
+              10.0
+            ]
+          },
+          "minecraft:selection_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              11.0,
+              10.0
+            ]
+          },
+          "minecraft:geometry": "geometry.template_pancake_pancakes11"
+        }
+      },
+      {
+        "condition": "query.block_state('farmersdelightplus:pancake_stage') == 12",
+        "components": {
+          "minecraft:collision_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              12.0,
+              10.0
+            ]
+          },
+          "minecraft:selection_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              12.0,
+              10.0
+            ]
+          },
+          "minecraft:geometry": "geometry.template_pancake_pancakes12"
+        }
+      },
+      {
+        "condition": "query.block_state('farmersdelightplus:pancake_stage') == 13",
+        "components": {
+          "minecraft:collision_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              13.0,
+              10.0
+            ]
+          },
+          "minecraft:selection_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              13.0,
+              10.0
+            ]
+          },
+          "minecraft:geometry": "geometry.template_pancake_pancakes13"
+        }
+      },
+      {
+        "condition": "query.block_state('farmersdelightplus:pancake_stage') == 14",
+        "components": {
+          "minecraft:collision_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              14.0,
+              10.0
+            ]
+          },
+          "minecraft:selection_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              14.0,
+              10.0
+            ]
+          },
+          "minecraft:geometry": "geometry.template_pancake_pancakes14"
+        }
+      },
+      {
+        "condition": "query.block_state('farmersdelightplus:pancake_stage') == 15",
+        "components": {
+          "minecraft:collision_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              15.0,
+              10.0
+            ]
+          },
+          "minecraft:selection_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              15.0,
+              10.0
+            ]
+          },
+          "minecraft:geometry": "geometry.template_pancake_pancakes15"
+        }
+      },
+      {
+        "condition": "query.block_state('farmersdelightplus:pancake_stage') == 16",
+        "components": {
+          "minecraft:collision_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              16.0,
+              10.0
+            ]
+          },
+          "minecraft:selection_box": {
+            "origin": [
+              -5.0,
+              0.0,
+              -5.0
+            ],
+            "size": [
+              10.0,
+              16.0,
+              10.0
+            ]
+          },
+          "minecraft:geometry": "geometry.template_pancake_pancakes16"
+        }
+      },
+      {
+        "condition": "query.block_state('minecraft:cardinal_direction') == 'north'",
+        "components": {
+          "minecraft:transformation": {
+            "rotation": [
+              0,
+              180,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "condition": "query.block_state('minecraft:cardinal_direction') == 'south'",
+        "components": {
+          "minecraft:transformation": {
+            "rotation": [
+              0,
+              0,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "condition": "query.block_state('minecraft:cardinal_direction') == 'west'",
+        "components": {
+          "minecraft:transformation": {
+            "rotation": [
+              0,
+              270,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "condition": "query.block_state('minecraft:cardinal_direction') == 'east'",
+        "components": {
+          "minecraft:transformation": {
+            "rotation": [
+              0,
+              90,
+              0
+            ]
+          }
+        }
+      }
+    ],
+    "components": {
+      "minecraft:connection_rule": {
+        "accepts_connections_from": "none"
+      },
+      "minecraft:selection_box": {
+        "origin": [
+          -5.0,
+          0.0,
+          -5.0
+        ],
+        "size": [
+          10.0,
+          1.0,
+          10.0
+        ]
+      },
+      "minecraft:collision_box": {
+        "origin": [
+          -5.0,
+          0.0,
+          -5.0
+        ],
+        "size": [
+          10.0,
+          1.0,
+          10.0
+        ]
+      },
+      "minecraft:loot": "loot_tables/farmersdelight/empty.json",
+      "minecraft:geometry": "geometry.template_pancake_pancakes1",
+      "minecraft:redstone_conductivity": {
+        "allows_wire_to_step_down": false
+      },
+      "minecraft:destructible_by_mining": {
+        "seconds_to_destroy": 0.5
+      },
+      "minecraft:light_dampening": 0,
+      "minecraft:destructible_by_explosion": {
+        "explosion_resistance": 0.5
+      },
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "chocolate_pancake_side"
+        },
+        "side": {
+          "texture": "chocolate_pancake_side"
+        },
+        "top": {
+          "texture": "chocolate_pancake_top"
+        },
+        "bottom": {
+          "texture": "pancake_bottom"
+        }
+      },
+      "tag:farmersdelightplus:pancake": {}
+    }
+  }
+}
