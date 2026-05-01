@@ -98,7 +98,7 @@ const CookingPotRecipes = [
                 { "item": "minecraft:brown_mushroom" }
             ],
             {
-                "item": "minecraft:egg"
+                "tag": "minecraft:egg"
             }
         ],
         "result": {
@@ -219,7 +219,7 @@ const CookingPotRecipes = [
         "ingredients": [
             [
                 {
-                    "item": "minecraft:fish"
+                    "item": "minecraft:cod"
                 },
                 {
                     "item": "minecraft:clownfish"
@@ -228,7 +228,7 @@ const CookingPotRecipes = [
                     "item": "minecraft:salmon"
                 },
                 {
-                    "tag": "farmersdelight:is_raw_fish"
+                    "tag": "farmersdelight: is_raw_fish"
                 }
             ],
             {
@@ -449,8 +449,7 @@ const CookingPotRecipes = [
                 },
                 {
                     "tag": "farmersdelight:is_raw_mutton"
-                },
-                { "item": "better_on_bedrock:raw_mutton_chops" }
+                }
             ],
             {
                 "item": "minecraft:carrot"
@@ -572,7 +571,7 @@ const CookingPotRecipes = [
             },
             [
                 {
-                    "item": "minecraft:fish"
+                    "item": "minecraft:cod"
                 },
                 {
                     "item": "minecraft:clownfish"

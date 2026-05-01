@@ -71,21 +71,5 @@ export const CuttingBoardRecipes = [
         },
         "is_block_type": false,
         "sound": "use.wood"
-    },
-    {
-        "ingredients": {
-            "item": "farmersdelight:wheat_dough"
-        },
-        "result": [
-            {
-                "item": "farmersdelight:raw_pasta",
-                "count": 1
-            }
-        ],
-        "tool": {
-            "tag": "farmersdelight:is_knife"
-        },
-        "is_block_type": false,
-        "sound": "use.wood"
     }
 ];
