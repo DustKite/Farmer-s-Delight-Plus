@@ -1,0 +1,31 @@
+{
+    "format_version": "1.26.0",
+    "minecraft:item": {
+        "description": {
+            "identifier": "farmersdelightplus:honeyed_rice_with_dragon_egg",
+            "menu_category": {
+                "category": "equipment",
+                "group": "farmersdelight:itemGroup.name.miscFood"
+            }
+        },
+        "components": {
+            "minecraft:use_modifiers": {
+                "use_duration": 1.6,
+                "movement_modifier": 0.4
+            },
+            "minecraft:rarity": "uncommon",
+            "minecraft:max_stack_size": 16,
+            "minecraft:food": {
+                "nutrition": 20,
+                "saturation_modifier": 0.9,
+                "using_converts_to": "minecraft:bowl"
+            },
+            "minecraft:use_animation": "eat",
+            "minecraft:icon": {
+                "textures": {
+                    "default": "honeyed_rice_with_dragon_egg"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "farmersdelightplus:honey_pancake"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "PH"
+    ],
+    "key": {
+      "P": {
+        "item": "farmersdelightplus:empty_pancake"
+      },
+      "H": {
+        "item": "minecraft:honey_bottle"
+      }
+    },
+    "result": [
+      {
+        "item": "farmersdelightplus:honey_pancake",
+        "count": 1
+      },
+      {
+        "item": "minecraft:glass_bottle",
+        "count": 1
+      }
+    ]
+  }
+}

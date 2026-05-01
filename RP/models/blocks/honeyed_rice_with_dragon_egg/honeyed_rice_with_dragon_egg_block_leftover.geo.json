@@ -1,0 +1,49 @@
+{
+	"format_version": "1.21.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.honeyed_rice_with_dragon_egg_block_leftover",
+				"texture_width": 16,
+				"texture_height": 16,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 1.5,
+				"visible_bounds_offset": [0, 0.25, 0]
+			},
+			"bones": [
+				{
+					"name": "bone",
+					"pivot": [8, 0, -8],
+					"cubes": [
+						{
+							"origin": [2.06112, 2, 3.27584],
+							"size": [4, 3, 2],
+							"pivot": [3.16112, 4, 2.27584],
+							"rotation": [0, 22.5, 0],
+							"uv": {
+								"north": {"uv": [11, 1.5], "uv_size": [1.5, 2], "uv_rotation": 270, "material_instance": "salmon_honey_cooked"},
+								"east": {"uv": [13.5, 1.5], "uv_size": [-1, -1.5], "material_instance": "salmon_honey_cooked"},
+								"south": {"uv": [13.5, 1.5], "uv_size": [1.5, 2], "uv_rotation": 90, "material_instance": "salmon_honey_cooked"},
+								"west": {"uv": [16, 1.5], "uv_size": [-1, 2], "uv_rotation": 180, "material_instance": "salmon_honey_cooked"},
+								"up": {"uv": [13.5, 3.5], "uv_size": [-1, -2], "uv_rotation": 90, "material_instance": "salmon_honey_cooked"},
+								"down": {"uv": [16, 3.5], "uv_size": [-1, -2], "uv_rotation": 90, "material_instance": "salmon_honey_cooked"}
+							}
+						},
+						{
+							"origin": [-7, 0, -7],
+							"size": [14, 2, 14],
+							"uv": {
+								"north": {"uv": [1, 11], "uv_size": [14, 2],"material_instance": "tray_bottom"},
+								"east": {"uv": [1, 11], "uv_size": [14, 2],"material_instance": "tray_bottom"},
+								"south": {"uv": [1, 11], "uv_size": [14, 2],"material_instance": "tray_bottom"},
+								"west": {"uv": [1, 11], "uv_size": [14, 2],"material_instance": "tray_bottom"},
+								"up": {"uv": [15, 15], "uv_size": [-14, -14],"material_instance": "tray_rice_honey_leftover"},
+								"down": {"uv": [15, 15], "uv_size": [-14, -14],"material_instance": "tray_bottom"}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

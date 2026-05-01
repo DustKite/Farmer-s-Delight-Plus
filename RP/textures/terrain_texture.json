@@ -48,6 +48,9 @@
     "rice_with_dragon_egg_filling": {
       "textures": "textures/blocks/rice_with_dragon_egg_filling"
     },
+    "salmon_honey_cooked": {
+      "textures": "textures/blocks/salmon_honey_cooked"
+    },
     "sugar_bag_side": {
       "textures": "textures/blocks/sugar_bag_side"
     },

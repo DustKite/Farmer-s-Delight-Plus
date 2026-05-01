@@ -1,0 +1,35 @@
+{
+    "format_version": "1.26.0",
+    "minecraft:item": {
+        "description": {
+            "identifier": "farmersdelightplus:cooked_pufferfish_slice",
+            "menu_category": {
+                "category": "equipment",
+                "group": "farmersdelight:itemGroup.name.miscFood"
+            }
+        },
+        "components": {
+            "minecraft:use_modifiers": {
+                "use_duration": 1.6,
+                "movement_modifier": 0.4
+            },
+            "minecraft:max_stack_size": 64,
+            "minecraft:food": {
+                "nutrition": 3,
+                "saturation_modifier": 0.5
+            },
+            "minecraft:tags": {
+                "tags": [
+                    "minecraft:is_cooked",
+                    "farmersdelight:is_cooked_fish"
+                ]
+            },
+            "minecraft:use_animation": "eat",
+            "minecraft:icon": {
+                "textures": {
+                    "default": "cooked_pufferfish_slice"
+                }
+            }
+        }
+    }
+}

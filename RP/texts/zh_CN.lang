@@ -45,5 +45,7 @@ item.farmersdelightplus:sparkling_potato=闪耀马铃薯
 item.farmersdelightplus:steak_with_golden_carrot=牛排配金胡萝卜
 item.farmersdelightplus:turtle_soup=海龟汤
 
-item.farmersdelightplus:honeyed_rice_with_dragon_egg_block=§d蜜汁饭配龙蛋
+item.farmersdelightplus:honeyed_rice_with_dragon_egg_block=蜜汁饭配龙蛋
 item.farmersdelightplus:heart_of_the_minotaur_block=米诺陶之心
+
+farmersdelight.blockfood.farmersdelight:cooked_rice=你需要一碗米饭以食用它

@@ -1,0 +1,37 @@
+{
+    "farmersdelightplus:golden_carrot_crate": {
+        "sound": "wood"
+    },
+    "farmersdelightplus:glow_berry_barrel": {
+        "sound": "wood"
+    },
+    "farmersdelightplus:sweet_berry_barrel": {
+        "sound": "wood"
+    },
+    "farmersdelightplus:sugar_bag": {
+        "sound": "cloth"
+    },
+    "farmersdelightplus:heart_of_the_minotaur_block": {
+        "sound": "cloth"
+    },
+    "farmersdelightplus:honeyed_rice_with_dragon_egg_block": {
+        "sound": "cloth"
+    },
+    "farmersdelightplus:berry_pancake": {
+        "sound": "cloth"
+    },
+    "farmersdelightplus:empty_pancake": {
+        "sound": "cloth"
+    },
+    "farmersdelightplus:chocolate_pancake": {
+        "sound": "cloth"
+    },
+    "farmersdelightplus:honey_pancake": {
+        "sound": "cloth"
+    },
+    "format_version": [
+        1,
+        1,
+        0
+    ]
+}

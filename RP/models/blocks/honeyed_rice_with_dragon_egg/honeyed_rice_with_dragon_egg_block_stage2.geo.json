@@ -1,0 +1,153 @@
+{
+	"format_version": "1.21.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.honeyed_rice_with_dragon_egg_block_stage2",
+				"texture_width": 16,
+				"texture_height": 16,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 1.5,
+				"visible_bounds_offset": [0, 0.25, 0]
+			},
+			"bones": [
+				{
+					"name": "bone",
+					"pivot": [8, 0, -8],
+					"cubes": [
+						{
+							"origin": [7.75, 2.5, 4.75],
+							"size": [3, 4, 2],
+							"pivot": [0, 5, 5.75],
+							"rotation": [0, 22.5, 0],
+							"uv": {
+								"north": {"uv": [11, 1.5], "uv_size": [1.5, 2], "material_instance": "salmon_honey_cooked"},
+								"south": {"uv": [13.5, 1.5], "uv_size": [1.5, 2], "material_instance": "salmon_honey_cooked"},
+								"west": {"uv": [12.5, 1.5], "uv_size": [1, 2], "material_instance": "salmon_honey_cooked"},
+								"up": {"uv": [12.5, 0], "uv_size": [1, 1.5], "uv_rotation": 270, "material_instance": "salmon_honey_cooked"},
+								"down": {"uv": [15, 3.5], "uv_size": [1, -2], "uv_rotation": 90, "material_instance": "salmon_honey_cooked"}
+							}
+						},
+						{
+							"origin": [-0.25, 1.99, 4.25],
+							"size": [8, 5, 3],
+							"pivot": [0, 5, 5.75],
+							"rotation": [0, 22.5, 0],
+							"uv": {
+								"north": {"uv": [0, 4], "uv_size": [4, 2.5], "material_instance": "salmon_honey_cooked"},
+								"east": {"uv": [11, 10.5], "uv_size": [1.5, 2.5], "material_instance": "salmon_honey_cooked"},
+								"south": {"uv": [5.5, 4], "uv_size": [4, 2.5], "material_instance": "salmon_honey_cooked"},
+								"west": {"uv": [4, 4], "uv_size": [1.5, 2.5], "material_instance": "salmon_honey_cooked"},
+								"up": {"uv": [4, 0], "uv_size": [1.5, 4], "uv_rotation": 270, "material_instance": "salmon_honey_cooked"},
+								"down": {"uv": [5.5, 4], "uv_size": [1.5, -4], "uv_rotation": 90, "material_instance": "salmon_honey_cooked"}
+							}
+						},
+						{
+							"origin": [5.75, 2.001, 7.25],
+							"size": [2, 0, 2],
+							"pivot": [0, 5, 5.75],
+							"rotation": [0, 22.5, 0],
+							"uv": {
+								"up": {"uv": [1, 0], "uv_size": [-1, 1], "uv_rotation": 270, "material_instance": "salmon_honey_cooked"},
+								"down": {"uv": [1, 1], "uv_size": [-1, -1], "uv_rotation": 90, "material_instance": "salmon_honey_cooked"}
+							}
+						},
+						{
+							"origin": [5.75, 2.001, 2.25],
+							"size": [2, 0, 2],
+							"pivot": [0, 5, 5.75],
+							"rotation": [0, 22.5, 0],
+							"uv": {
+								"up": {"uv": [3, 0], "uv_size": [-1, 1], "uv_rotation": 270, "material_instance": "salmon_honey_cooked"},
+								"down": {"uv": [3, 1], "uv_size": [-1, -1], "uv_rotation": 90, "material_instance": "salmon_honey_cooked"}
+							}
+						},
+						{
+							"origin": [-1.325, 4, 5.525],
+							"size": [1, 2, 1],
+							"pivot": [-0.72261, 5, 5.66101],
+							"rotation": [0, 22.5, 0],
+							"uv": {
+								"north": {"uv": [14, 11], "uv_size": [0.5, 1], "material_instance": "salmon_honey_cooked"},
+								"east": {"uv": [13.5, 11], "uv_size": [0.5, 1], "material_instance": "salmon_honey_cooked"},
+								"south": {"uv": [13.5, 11], "uv_size": [-0.5, 1], "material_instance": "salmon_honey_cooked"},
+								"up": {"uv": [14, 11], "uv_size": [-0.5, -0.5], "uv_rotation": 90, "material_instance": "salmon_honey_cooked"},
+								"down": {"uv": [14.5, 10.5], "uv_size": [-0.5, 0.5], "uv_rotation": 270, "material_instance": "salmon_honey_cooked"}
+							}
+						},
+						{
+							"origin": [-5, 2, 2],
+							"size": [1, 1, 1],
+							"uv": {
+								"east": {"uv": [10, 8], "uv_size": [1, 1], "material_instance": "rice_with_dragon_egg_filling"},
+								"south": {"uv": [10, 8], "uv_size": [1, 1], "material_instance": "rice_with_dragon_egg_filling"},
+								"west": {"uv": [10, 8], "uv_size": [1, 1], "material_instance": "rice_with_dragon_egg_filling"},
+								"up": {"uv": [11, 9], "uv_size": [-1, -1], "material_instance": "rice_with_dragon_egg_filling"}
+							}
+						},
+						{
+							"origin": [-6, 2, -1],
+							"size": [2, 1, 3],
+							"uv": {
+								"north": {"uv": [9, 10], "uv_size": [2, 1], "uv_rotation": 180, "material_instance": "rice_with_dragon_egg_filling"},
+								"east": {"uv": [8, 7], "uv_size": [1, 3], "uv_rotation": 270, "material_instance": "rice_with_dragon_egg_filling"},
+								"south": {"uv": [9, 12], "uv_size": [-2, -1], "material_instance": "rice_with_dragon_egg_filling"},
+								"west": {"uv": [12, 7], "uv_size": [-1, 3], "uv_rotation": 90, "material_instance": "rice_with_dragon_egg_filling"},
+								"up": {"uv": [11, 10], "uv_size": [-2, -3], "uv_rotation": 180, "material_instance": "rice_with_dragon_egg_filling"}
+							}
+						},
+						{
+							"origin": [3.9, 3.7, -4],
+							"size": [1, 1, 1],
+							"pivot": [5.5, 2.5, -6.5],
+							"rotation": [0, 0, 22.5],
+							"uv": {
+								"north": {"uv": [10, 8], "uv_size": [1, 1], "material_instance": "rice_with_dragon_egg_filling"},
+								"east": {"uv": [10, 8], "uv_size": [1, 1], "material_instance": "rice_with_dragon_egg_filling"},
+								"south": {"uv": [10, 8], "uv_size": [1, 1], "material_instance": "rice_with_dragon_egg_filling"},
+								"west": {"uv": [10, 8], "uv_size": [1, 1], "material_instance": "rice_with_dragon_egg_filling"},
+								"up": {"uv": [11, 9], "uv_size": [-1, -1], "material_instance": "rice_with_dragon_egg_filling"}
+							}
+						},
+						{
+							"origin": [3.5, 4.8, -4],
+							"size": [2, 3, 1],
+							"pivot": [-5, 3.5, -4.5],
+							"rotation": [0, 0, 22.5],
+							"uv": {
+								"north": {"uv": [11, 7], "uv_size": [-2, 3], "material_instance": "rice_with_dragon_egg_filling"},
+								"east": {"uv": [11, 7], "uv_size": [1, 3], "material_instance": "rice_with_dragon_egg_filling"},
+								"south": {"uv": [12, 7], "uv_size": [-2, 3], "material_instance": "rice_with_dragon_egg_filling"},
+								"west": {"uv": [7, 7], "uv_size": [1, 3], "material_instance": "rice_with_dragon_egg_filling"},
+								"up": {"uv": [7, 11], "uv_size": [2, 1], "uv_rotation": 180, "material_instance": "rice_with_dragon_egg_filling"}
+							}
+						},
+						{
+							"origin": [-3, 2, 0],
+							"size": [6, 6, 3],
+							"uv": {
+								"north": {"uv": [6, 6], "uv_size": [-6, 6], "material_instance": "rice_with_dragon_egg_filling"},
+								"east": {"uv": [0, 0], "uv_size": [3, 6], "material_instance": "rice_with_dragon_egg_filling"},
+								"south": {"uv": [0, 0], "uv_size": [6, 6], "material_instance": "rice_with_dragon_egg_filling"},
+								"west": {"uv": [3, 0], "uv_size": [3, 6], "material_instance": "rice_with_dragon_egg_filling"},
+								"up": {"uv": [6, 0], "uv_size": [6, 3], "material_instance": "rice_with_dragon_egg_filling"}
+							}
+						},
+						{
+							"origin": [-7, 0, -7],
+							"size": [14, 2, 14],
+							"uv": {
+								"north": {"uv": [1, 11], "uv_size": [14, 2],"material_instance": "tray_bottom"},
+								"east": {"uv": [1, 11], "uv_size": [14, 2],"material_instance": "tray_bottom"},
+								"south": {"uv": [1, 11], "uv_size": [14, 2],"material_instance": "tray_bottom"},
+								"west": {"uv": [1, 11], "uv_size": [14, 2],"material_instance": "tray_bottom"},
+								"up": {"uv": [15, 15], "uv_size": [-14, -14],"material_instance": "tray_rice_honey_garnish"},
+								"down": {"uv": [15, 15], "uv_size": [-14, -14],"material_instance": "tray_bottom"}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

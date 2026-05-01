@@ -1,4 +1,4 @@
-import { Foodsregister } from "./register/Foodsregister";
+import { FoodRegister } from "./register/FoodRegister";
 import { RecipeRegister } from "./register/Recipes";
-new Foodsregister();
+new FoodRegister();
 new RecipeRegister();

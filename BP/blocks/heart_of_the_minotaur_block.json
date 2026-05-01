@@ -1,0 +1,203 @@
+{
+    "format_version": "1.26.0",
+    "minecraft:block": {
+        "description": {
+            "identifier": "farmersdelightplus:heart_of_the_minotaur_block",
+            "menu_category": {
+                "category": "none"
+            },
+            "states": {
+                "farmersdelight:food_block_stage": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            "traits": {
+                "minecraft:placement_direction": {
+                    "enabled_states": [
+                        "minecraft:cardinal_direction"
+                    ],
+                    "y_rotation_offset": 0.0
+                }
+            }
+        },
+        "permutations": [
+            {
+                "condition": "query.block_state('farmersdelight:food_block_stage') == 0",
+                "components": {
+                    "minecraft:geometry": "geometry.heart_of_the_minotaur_block_stage0"
+                }
+            },
+            {
+                "condition": "query.block_state('farmersdelight:food_block_stage') == 1",
+                "components": {
+                    "minecraft:geometry": "geometry.heart_of_the_minotaur_block_stage1",
+                    "minecraft:loot": "loot_tables/farmersdelight/empty.json"
+                }
+            },
+            {
+                "condition": "query.block_state('farmersdelight:food_block_stage') == 2",
+                "components": {
+                    "minecraft:geometry": "geometry.heart_of_the_minotaur_block_stage2",
+                    "minecraft:loot": "loot_tables/farmersdelight/empty.json"
+                }
+            },
+            {
+                "condition": "query.block_state('farmersdelight:food_block_stage') == 3",
+                "components": {
+                    "minecraft:geometry": "geometry.heart_of_the_minotaur_block_stage3",
+                    "minecraft:loot": "loot_tables/farmersdelight/empty.json"
+                }
+            },
+            {
+                "condition": "query.block_state('farmersdelight:food_block_stage') == 4",
+                "components": {
+                    "minecraft:geometry": "geometry.heart_of_the_minotaur_block_leftover",
+                    "minecraft:loot": "loot_tables/farmersdelightplus/bowl.json",
+                    "minecraft:collision_box": {
+                        "origin": [
+                            -7.0,
+                            0.0,
+                            -7.0
+                        ],
+                        "size": [
+                            14.0,
+                            2.0,
+                            14.0
+                        ]
+                    },
+                    "minecraft:selection_box": {
+                        "origin": [
+                            -7.0,
+                            0.0,
+                            -7.0
+                        ],
+                        "size": [
+                            14.0,
+                            2.0,
+                            14.0
+                        ]
+                    }
+                }
+            },
+            {
+                "condition": "query.block_state('minecraft:cardinal_direction') == 'north'",
+                "components": {
+                    "minecraft:transformation": {
+                        "rotation": [
+                            0,
+                            180,
+                            0
+                        ]
+                    }
+                }
+            },
+            {
+                "condition": "query.block_state('minecraft:cardinal_direction') == 'south'",
+                "components": {
+                    "minecraft:transformation": {
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            },
+            {
+                "condition": "query.block_state('minecraft:cardinal_direction') == 'west'",
+                "components": {
+                    "minecraft:transformation": {
+                        "rotation": [
+                            0,
+                            270,
+                            0
+                        ]
+                    }
+                }
+            },
+            {
+                "condition": "query.block_state('minecraft:cardinal_direction') == 'east'",
+                "components": {
+                    "minecraft:transformation": {
+                        "rotation": [
+                            0,
+                            90,
+                            0
+                        ]
+                    }
+                }
+            }
+        ],
+        "components": {
+            "minecraft:destructible_by_mining": {
+                "seconds_to_destroy": 1.0
+            },
+            "minecraft:geometry": "geometry.heart_of_the_minotaur_block_stage0",
+            "minecraft:material_instances": {
+                "*": {
+                    "texture": "minotaur_rib_cage",
+                    "render_method": "alpha_test"
+                },
+                "tray_bottom": {
+                    "texture": "tray_bottom",
+                    "render_method": "alpha_test"
+                },
+                "minotaur_rib_cage": {
+                    "texture": "minotaur_rib_cage",
+                    "render_method": "alpha_test"
+                },
+                "cooked_beef": {
+                    "texture": "cooked_beef",
+                    "render_method": "alpha_test"
+                },
+                "tray_rice_with_tomato_sauce_leftover": {
+                    "texture": "tray_rice_with_tomato_sauce_leftover",
+                    "render_method": "alpha_test"
+                },
+                "tray_rice_with_tomato_sauce": {
+                    "texture": "tray_rice_with_tomato_sauce",
+                    "render_method": "alpha_test"
+                }
+            },
+            "minecraft:collision_box": {
+                "origin": [
+                    -7.0,
+                    0.0,
+                    -7.0
+                ],
+                "size": [
+                    14.0,
+                    9.0,
+                    14.0
+                ]
+            },
+            "minecraft:selection_box": {
+                "origin": [
+                    -7.0,
+                    0.0,
+                    -7.0
+                ],
+                "size": [
+                    14.0,
+                    9.0,
+                    14.0
+                ]
+            },
+            "farmersdelight:dish": {
+                "has_leftovers": true,
+                "servings": 4,
+                "contents": "farmersdelightplus:heart_of_the_minotaur",
+                "utensil": "farmersdelight:cooked_rice"
+            },
+            "minecraft:loot": "loot_tables/farmersdelight/empty.json",
+            "minecraft:connection_rule": {
+                "accepts_connections_from": "none"
+            },
+            "tag:farmersdelight:blockfood": {}
+        }
+    }
+}

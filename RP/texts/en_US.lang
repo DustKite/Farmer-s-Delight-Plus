@@ -47,3 +47,5 @@ item.farmersdelightplus:turtle_soup=Turtle Soup
 
 item.farmersdelightplus:honeyed_rice_with_dragon_egg_block=Honeyed Rice with Dragon Egg
 item.farmersdelightplus:heart_of_the_minotaur_block=Heart of the Minotaur
+
+farmersdelight.blockfood.farmersdelight:cooked_rice=You need a Cooked Rice to eat this.
