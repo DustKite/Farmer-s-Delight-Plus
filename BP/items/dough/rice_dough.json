@@ -13,6 +13,11 @@
                 "use_duration": 1.6,
                 "movement_modifier": 0.4
             },
+            "minecraft:tags": {
+                "tags": [
+                    "farmersdelight:is_rice_dough"
+                ]
+            },
             "minecraft:max_stack_size": 64,
             "minecraft:food": {
                 "nutrition": 2,

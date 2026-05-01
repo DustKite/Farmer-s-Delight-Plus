@@ -2,7 +2,7 @@
     "format_version": "1.26.0",
     "minecraft:block": {
         "description": {
-            "identifier": "farmersdelightplus:berry_pancake",
+            "identifier": "farmersdelightplus:honey_pancake_block",
             "states": {
                 "farmersdelightplus:pancake_stage": [
                     1,
@@ -566,6 +566,7 @@
             "minecraft:connection_rule": {
                 "accepts_connections_from": "none"
             },
+            "farmersdelightplus:pancake": {},
             "minecraft:selection_box": {
                 "origin": [
                     -5.0,
@@ -604,13 +605,13 @@
             },
             "minecraft:material_instances": {
                 "*": {
-                    "texture": "berry_pancake_side"
+                    "texture": "honey_pancake_side"
                 },
                 "side": {
-                    "texture": "berry_pancake_side"
+                    "texture": "honey_pancake_side"
                 },
                 "top": {
-                    "texture": "berry_pancake_top"
+                    "texture": "honey_pancake_top"
                 },
                 "bottom": {
                     "texture": "pancake_bottom"

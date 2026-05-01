@@ -17,16 +17,16 @@
     "farmersdelightplus:honeyed_rice_with_dragon_egg_block": {
         "sound": "cloth"
     },
-    "farmersdelightplus:berry_pancake": {
+    "farmersdelightplus:berry_pancake_block": {
         "sound": "cloth"
     },
-    "farmersdelightplus:empty_pancake": {
+    "farmersdelightplus:empty_pancake_block": {
         "sound": "cloth"
     },
-    "farmersdelightplus:chocolate_pancake": {
+    "farmersdelightplus:chocolate_pancake_block": {
         "sound": "cloth"
     },
-    "farmersdelightplus:honey_pancake": {
+    "farmersdelightplus:honey_pancake_block": {
         "sound": "cloth"
     },
     "format_version": [

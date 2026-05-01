@@ -1,28 +1,32 @@
 {
   "format_version": "1.12",
-  "minecraft:recipe_shapeless": {
+  "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "farmersdelightplus:rice_dough"
+      "identifier": "farmersdelightplus:rice_dough_from_water"
     },
     "tags": [
       "crafting_table"
     ],
-    "result": {
-      "item": "farmersdelightplus:rice_dough",
-      "count": 3
-    },
-    "ingredients": [
-      {
+    "pattern": [
+      "WR",
+      "RR"
+    ],
+    "key": {
+      "W": {
         "item": "minecraft:water_bucket"
       },
-      {
+      "R": {
         "item": "farmersdelight:rice"
+      }
+    },
+    "result": [
+      {
+        "item": "farmersdelightplus:rice_dough",
+        "count": 3
       },
       {
-        "item": "farmersdelight:rice"
-      },
-      {
-        "item": "farmersdelight:rice"
+        "item": "minecraft:bucket",
+        "count": 1
       }
     ]
   }

@@ -7,7 +7,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
-import { itemCompleteUseAfterEvent, world } from "@minecraft/server";
+import { world } from "@minecraft/server";
 import { methodEventSub } from "../lib/eventHelper";
 export class FoodRegister {
     eat(args) {
@@ -86,8 +86,8 @@ export class FoodRegister {
     }
 }
 __decorate([
-    methodEventSub.register(world.afterEvents.itemCompleteUse),
+    methodEventSub(world.afterEvents.itemStopUse),
     __metadata("design:type", Function),
-    __metadata("design:paramtypes", [itemCompleteUseAfteerEvent]),
+    __metadata("design:paramtypes", [Object]),
     __metadata("design:returntype", void 0)
 ], FoodRegister.prototype, "eat", null);

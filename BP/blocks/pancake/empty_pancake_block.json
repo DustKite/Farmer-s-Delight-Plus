@@ -2,7 +2,7 @@
   "format_version": "1.26.0",
   "minecraft:block": {
     "description": {
-      "identifier": "farmersdelightplus:chocolate_pancake",
+      "identifier": "farmersdelightplus:empty_pancake_block",
       "states": {
         "farmersdelightplus:pancake_stage": [
           1,
@@ -566,6 +566,7 @@
       "minecraft:connection_rule": {
         "accepts_connections_from": "none"
       },
+      "farmersdelightplus:pancake": {},
       "minecraft:selection_box": {
         "origin": [
           -5.0,
@@ -604,13 +605,13 @@
       },
       "minecraft:material_instances": {
         "*": {
-          "texture": "chocolate_pancake_side"
+          "texture": "empty_pancake_side"
         },
         "side": {
-          "texture": "chocolate_pancake_side"
+          "texture": "empty_pancake_side"
         },
         "top": {
-          "texture": "chocolate_pancake_top"
+          "texture": "empty_pancake_top"
         },
         "bottom": {
           "texture": "pancake_bottom"

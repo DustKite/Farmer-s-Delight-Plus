@@ -11,6 +11,7 @@ import { WorldLoadAfterEvent, system, world } from "@minecraft/server";
 import { EventAPI } from "../lib/EventAPI";
 import { CuttingBoardRecipes } from "../datas/CuttingRecipes";
 import { CookingPotRecipes } from "../datas/CookingPotRecipes";
+import { CookRecipes } from "../datas/CookRecipes";
 export class RecipeRegister {
     register(args) {
         system.runTimeout(() => {
@@ -20,6 +21,9 @@ export class RecipeRegister {
             }
             for (let i = 0; i < CuttingBoardRecipes.length; i++) {
                 world.getDimension("overworld").runCommand(`scriptevent farmersdelight:cutting_board_recipe ${JSON.stringify(CuttingBoardRecipes[i])}`);
+            }
+            for (let i = 0; i < CookRecipes.length; i++) {
+                world.getDimension("overworld").runCommand(`scriptevent farmersdelight:cook ${JSON.stringify(CookRecipes[i])}`);
             }
         }, 1);
     }

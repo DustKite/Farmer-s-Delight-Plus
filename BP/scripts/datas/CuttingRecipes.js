@@ -27,14 +27,5 @@ export const CuttingBoardRecipes = [
         tool: { tag: "farmersdelight:is_knife" },
         is_block_type: false,
         sound: "use.wood"
-    },
-    {
-        ingredients: { item: "minecraft:wool" },
-        result: [
-            { item: "minecraft:string", count: 1, chance: 0.5 }
-        ],
-        tool: { tag: "minecraft:is_shears" },
-        is_block_type: true,
-        sound: "use.wood"
     }
 ];

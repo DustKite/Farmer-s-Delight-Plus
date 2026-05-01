@@ -42,7 +42,7 @@
     "authors": [
       "Dust_Kite/Elaikes"
     ],
-    "license": "MIT",
+    "license": "GPLv3",
     "product_type": "addon"
   },
   "dependencies": [
@@ -56,7 +56,7 @@
     },
     {
       "module_name": "@minecraft/server",
-      "version": "2.0.0"
+      "version": "2.4.0"
     }
   ]
 }
