@@ -26,6 +26,7 @@
             "minecraft:destructible_by_explosion": {
                 "explosion_resistance": 3
             },
+            "minecraft:light_emission": 14,
             "minecraft:geometry": "minecraft:geometry.full_block",
             "tag:wood": {}
         }
