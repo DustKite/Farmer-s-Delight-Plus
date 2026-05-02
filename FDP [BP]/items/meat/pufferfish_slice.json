@@ -4,8 +4,8 @@
         "description": {
             "identifier": "farmersdelightplus:pufferfish_slice",
             "menu_category": {
-                "category": "equipment",
-                "group": "farmersdelight:itemGroup.name.miscFood"
+                "category": "nature",
+                "group": "farmersdelight:itemGroup.name.rawFood"
             }
         },
         "components": {

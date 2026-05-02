@@ -41,12 +41,12 @@ export class Pancake {
         const { x, y, z } = block.location;
         const dropId = block.typeId.replace("_block", "");
         const pancakeStats = {
-            "farmersdelightplus:honey_pancake": { hunger: 7, saturation: 5.0 },
-            "farmersdelightplus:empty_pancake": { hunger: 4, saturation: 3.0 },
-            "farmersdelightplus:chocolate_pancake": { hunger: 6, saturation: 6.0 },
-            "farmersdelightplus:berry_pancake": { hunger: 5, saturation: 4.0 }
+            "farmersdelightplus:honey_pancake": { hunger: 7, saturation: 5 },
+            "farmersdelightplus:empty_pancake": { hunger: 4, saturation: 3 },
+            "farmersdelightplus:chocolate_pancake": { hunger: 6, saturation: 6 },
+            "farmersdelightplus:berry_pancake": { hunger: 5, saturation: 4 }
         };
-        const stats = pancakeStats[dropId] || { hunger: 4, saturation: 3.0 };
+        const stats = pancakeStats[dropId] || { hunger: 4, saturation: 3 };
         const isSneaking = player.isSneaking;
         const equipped = player.getComponent("equippable");
         const mainhand = equipped?.getEquipmentSlot(EquipmentSlot.Mainhand);
@@ -74,14 +74,19 @@ export class Pancake {
         }
         if (!isSneaking) {
             const hunger = player.getComponent('minecraft:player.hunger');
+            const saturation = player.getComponent('minecraft:player.saturation');
             dimension.playSound("random.eat", { x: x + 0.5, y: y + 0.5, z: z + 0.5 });
             if (hunger) {
                 hunger.setCurrentValue(Math.min(hunger.currentValue + stats.hunger, 20));
             }
+            if (saturation) {
+                saturation.setCurrentValue(Math.min(saturation.currentValue + stats.saturation, 20));
+            }
             if (state <= 1) {
                 dimension.setBlockType(block.location, "minecraft:air");
             } else {
-                block.setPermutation(permutation.withState('farmersdelightplus:pancake_stage', state - 1));
+                const newState = state - 1;
+                block.setPermutation(permutation.withState('farmersdelightplus:pancake_stage', newState));
             }
         }
     }

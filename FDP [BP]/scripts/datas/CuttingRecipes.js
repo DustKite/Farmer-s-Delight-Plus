@@ -17,7 +17,7 @@ export const CuttingBoardRecipes = [
         ],
         tool: { tag: "farmersdelight:is_knife" },
         is_block_type: false,
-        sound: "use.wood"
+        sound: "dig.cloth"
     },
     {
         ingredients: { item: "farmersdelightplus:rice_dough" },
@@ -26,6 +26,6 @@ export const CuttingBoardRecipes = [
         ],
         tool: { tag: "farmersdelight:is_knife" },
         is_block_type: false,
-        sound: "use.wood"
+        sound: "dig.cloth"
     }
 ];

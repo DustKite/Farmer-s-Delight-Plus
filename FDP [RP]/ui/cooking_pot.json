@@ -1538,7 +1538,7 @@
                     }
                   },
                   {
-                    "cell1": {
+                    "cell1@cooking_pot.is_raw_mutton": {
                       "type": "image",
                       "offset": [
                         -14.625,
@@ -1547,8 +1547,7 @@
                       "size": [
                         7.5,
                         7.5
-                      ],
-                      "texture": "textures/items/mutton_raw"
+                      ]
                     }
                   },
                   {
@@ -1629,7 +1628,7 @@
                     }
                   },
                   {
-                    "cell1@cooking_pot.is_raw_fish": {
+                    "cell1": {
                       "type": "image",
                       "offset": [
                         -14.625,
@@ -1638,7 +1637,8 @@
                       "size": [
                         7.5,
                         7.5
-                      ]
+                      ],
+                      "texture": "textures/items/fish_clownfish_raw"
                     }
                   },
                   {

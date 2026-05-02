@@ -5,7 +5,7 @@
             "identifier": "farmersdelightplus:cooked_pufferfish_slice",
             "menu_category": {
                 "category": "equipment",
-                "group": "farmersdelight:itemGroup.name.miscFood"
+                "group": "farmersdelight:itemGroup.name.cookedFood"
             }
         },
         "components": {

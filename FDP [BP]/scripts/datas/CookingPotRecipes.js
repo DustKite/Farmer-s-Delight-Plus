@@ -222,13 +222,13 @@ const CookingPotRecipes = [
                     "item": "minecraft:cod"
                 },
                 {
-                    "item": "minecraft:clownfish"
+                    "item": "minecraft:tropical_fish"
                 },
                 {
                     "item": "minecraft:salmon"
                 },
                 {
-                    "tag": "farmersdelight: is_raw_fish"
+                    "tag": "farmersdelight:is_raw_fish"
                 }
             ],
             {
@@ -574,7 +574,7 @@ const CookingPotRecipes = [
                     "item": "minecraft:cod"
                 },
                 {
-                    "item": "minecraft:clownfish"
+                    "item": "minecraft:tropical_fish"
                 },
                 {
                     "item": "minecraft:salmon"
