@@ -1,0 +1,51 @@
+pack.name=Farmer's Delight: Plus
+pack.description=For 1.26.0+, This addon is ported based on the original Java Edition mod Farmer's Delight: Plus and this work is licensed under the MIT License.
+
+tile.farmersdelightplus:berry_pancake_block.name=Pile de crêpes au sirop de baies
+tile.farmersdelightplus:chocolate_pancake_block.name=Pile de crêpes au chocolat
+tile.farmersdelightplus:empty_pancake_block.name=Pile de crêpes
+tile.farmersdelightplus:glow_berry_barrel.name=Tonneau de baies lumineuses
+tile.farmersdelightplus:golden_carrot_crate.name=Boîte de carottes dorées
+tile.farmersdelightplus:honey_pancake_block.name=Pile de crêpes au sirop de miel
+tile.farmersdelightplus:sugar_bag.name=Sac de sucre
+tile.farmersdelightplus:sweet_berry_barrel.name=Tonneau de baies sucrées
+
+item.farmersdelightplus:assorted_pufferfish_in_tomato_sauce=Assortiment de fugu à la sauce tomate
+item.farmersdelightplus:berry_compote=Compote de baies
+item.farmersdelightplus:berry_pancake=Crêpe au sirop de baies\n§9S'accroupir pour placer
+item.farmersdelightplus:breaded_rice_balls=Boulettes de riz panées
+item.farmersdelightplus:cactus_tea=Thé de cactus
+item.farmersdelightplus:call_of_the_seas=L'appel des mers
+item.farmersdelightplus:candied_slime=Pâte de fruits
+item.farmersdelightplus:chilled_sweet_berry_juice=Morse aux baies sucrées
+item.farmersdelightplus:chocolate_glazed_chicken=Poulet dans un glaçage au chocolat
+item.farmersdelightplus:chocolate_pancake=Crêpe au chocolat\n§9S'accroupir pour placer
+item.farmersdelightplus:cooked_pufferfish_slice=Filet de Fugu cuit
+item.farmersdelightplus:empty_pancake=Crêpe\n§9S'accroupir pour placer
+item.farmersdelightplus:festive_porkchop_with_berries=Porc au sirop de baies
+item.farmersdelightplus:glow_ink_pasta=Pâte à l'encre lumineuse
+item.farmersdelightplus:heart_of_the_minotaur=Assiette avec coeur de Minotaure
+item.farmersdelightplus:honey_pancake=Crêpe au sirop de miel\n§9S'accroupir pour placer
+item.farmersdelightplus:honeyed_rice_with_berries=Riz au miel et aux baies sucrées
+item.farmersdelightplus:honeyed_rice_with_dragon_egg=Assiette de riz avec oeuf de dragon dans le miel
+item.farmersdelightplus:lagman=Lagman
+item.farmersdelightplus:mashed_potatoes_with_meatballs=Purée de pommes de terre aux escalopes
+item.farmersdelightplus:miners_drink=Boisson du mineur
+item.farmersdelightplus:pancake_dough=Pâte à crêpes
+item.farmersdelightplus:pho_soup=Soupe Fo
+item.farmersdelightplus:pufferfish_slice=Filet de Fugu cru
+item.farmersdelightplus:raw_rice_noodle=Nouilles de riz crues
+item.farmersdelightplus:rice_dough=Pâte de riz
+item.farmersdelightplus:rice_flatbread=Gâteau de riz
+item.farmersdelightplus:rice_pilaf=Pilaf
+item.farmersdelightplus:rice_with_frogspawn=Riz au caviar de grenouille
+item.farmersdelightplus:risotto=Risotto
+item.farmersdelightplus:shining_salad=Salade lumineuse
+item.farmersdelightplus:sparkling_potato=Pommes de terre brillantes
+item.farmersdelightplus:steak_with_golden_carrot=Steak avec des carottes dorées
+item.farmersdelightplus:turtle_soup=Chaudrée de tortue
+
+item.farmersdelightplus:honeyed_rice_with_dragon_egg_block=Riz avec oeuf de dragon en sauce au miel
+item.farmersdelightplus:heart_of_the_minotaur_block=Le cœur du Minotaure
+
+farmersdelight.blockfood.farmersdelight:cooked_rice=Vous avez besoin de riz cuit pour manger ceci.

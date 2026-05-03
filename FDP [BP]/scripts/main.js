@@ -1,5 +1,5 @@
 import { FoodRegister } from "./register/Foodregister";
-import { RecipeRegister } from "./register/Recipes";
+import { RecipeRegister } from "./register/RecipeRegister";
 import { PancakePlace } from "./blocks/PancakePlace";
 import { Pancake } from "./blocks/Pancake";
 new FoodRegister();

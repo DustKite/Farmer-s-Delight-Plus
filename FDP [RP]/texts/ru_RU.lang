@@ -1,0 +1,51 @@
+pack.name=Farmer's Delight: Plus
+pack.description=For 1.26.0+, This addon is ported based on the original Java Edition mod Farmer's Delight: Plus and this work is licensed under the MIT License.
+
+tile.farmersdelightplus:berry_pancake_block.name=Стопка блинов в ягодном сиропе
+tile.farmersdelightplus:chocolate_pancake_block.name=Стопка блинов в шоколаде
+tile.farmersdelightplus:empty_pancake_block.name=Стопка блинов
+tile.farmersdelightplus:glow_berry_barrel.name=Бочка светящихся ягод
+tile.farmersdelightplus:golden_carrot_crate.name=Ящик с золотой морковью
+tile.farmersdelightplus:honey_pancake_block.name=Стопка блинов в медовом сиропе
+tile.farmersdelightplus:sugar_bag.name=Мешок сахара
+tile.farmersdelightplus:sweet_berry_barrel.name=Бочка сладких ягод
+
+item.farmersdelightplus:assorted_pufferfish_in_tomato_sauce=Ассорти из фугу в томатном соусе
+item.farmersdelightplus:berry_compote=Компот из ягод
+item.farmersdelightplus:berry_pancake=Блинчик в ягодном сиропе\n§9Присядьте, чтобы поставить
+item.farmersdelightplus:breaded_rice_balls=Рисовые шарики
+item.farmersdelightplus:cactus_tea=Кактусовый чай
+item.farmersdelightplus:call_of_the_seas=Зов морей
+item.farmersdelightplus:candied_slime=Рахат лукум
+item.farmersdelightplus:chilled_sweet_berry_juice=Сладкий ягодный морс
+item.farmersdelightplus:chocolate_glazed_chicken=Курица в шоколадной глазури
+item.farmersdelightplus:chocolate_pancake=Блинчик в шоколаде\n§9Присядьте, чтобы поставить
+item.farmersdelightplus:cooked_pufferfish_slice=Приготовленное филе фугу
+item.farmersdelightplus:empty_pancake=Блинчик\n§9Присядьте, чтобы поставить
+item.farmersdelightplus:festive_porkchop_with_berries=Свинина в ягодном сиропе
+item.farmersdelightplus:glow_ink_pasta=Паста со светящимися чернилами
+item.farmersdelightplus:heart_of_the_minotaur=Тарелка с сердцем минотавра
+item.farmersdelightplus:honey_pancake=Блинчик в медовом сиропе\n§9Присядьте, чтобы поставить
+item.farmersdelightplus:honeyed_rice_with_berries=Рис с мёдом и сладкими ягодами
+item.farmersdelightplus:honeyed_rice_with_dragon_egg=Тарелка риса с яйцом дракона в медовом соусе
+item.farmersdelightplus:lagman=Лагман
+item.farmersdelightplus:mashed_potatoes_with_meatballs=Картофельное пюре с котлетами
+item.farmersdelightplus:miners_drink=Напиток шахтёра
+item.farmersdelightplus:pancake_dough=Блинное тесто
+item.farmersdelightplus:pho_soup=Суп Фо
+item.farmersdelightplus:pufferfish_slice=Сырое филе фугу
+item.farmersdelightplus:raw_rice_noodle=Сырая рисовая лапша
+item.farmersdelightplus:rice_dough=Рисовое тесто
+item.farmersdelightplus:rice_flatbread=Рисовая лепёшка
+item.farmersdelightplus:rice_pilaf=Плов
+item.farmersdelightplus:rice_with_frogspawn=Рис с лягушачьей икрой
+item.farmersdelightplus:risotto=Ризотто
+item.farmersdelightplus:shining_salad=Сверкающий салат
+item.farmersdelightplus:sparkling_potato=Искристый картофель
+item.farmersdelightplus:steak_with_golden_carrot=Стейк с золотой морковью
+item.farmersdelightplus:turtle_soup=Черепашья похлёбка
+
+item.farmersdelightplus:honeyed_rice_with_dragon_egg_block=Рис с яйцом дракона в медовом соусе
+item.farmersdelightplus:heart_of_the_minotaur_block=Сердце минотавра
+
+farmersdelight.blockfood.farmersdelight:cooked_rice=Вам нужен приготовленный рис, чтобы съесть это.

@@ -1,0 +1,51 @@
+pack.name=Farmer's Delight: Plus
+pack.description=For 1.26.0+, This addon is ported based on the original Java Edition mod Farmer's Delight: Plus and this work is licensed under the MIT License.
+
+tile.farmersdelightplus:berry_pancake_block.name=Pilha de panquecas em xarope de baga
+tile.farmersdelightplus:chocolate_pancake_block.name=Pilha de panquecas de chocolate
+tile.farmersdelightplus:empty_pancake_block.name=Pilha de panquecas
+tile.farmersdelightplus:glow_berry_barrel.name=Barril de bagas brilhantes
+tile.farmersdelightplus:golden_carrot_crate.name=Caixa de cenoura dourada
+tile.farmersdelightplus:honey_pancake_block.name=Pilha de panquecas em xarope de mel
+tile.farmersdelightplus:sugar_bag.name=Saco de açúcar
+tile.farmersdelightplus:sweet_berry_barrel.name=Barril de bagas doces
+
+item.farmersdelightplus:assorted_pufferfish_in_tomato_sauce=Fugu em molho de tomate
+item.farmersdelightplus:berry_compote=Compota de bagas
+item.farmersdelightplus:berry_pancake=Crepe em xarope de baga\n§9Agachar para colocar
+item.farmersdelightplus:breaded_rice_balls=Bolas de arroz
+item.farmersdelightplus:cactus_tea=Chá de Cactus
+item.farmersdelightplus:call_of_the_seas=O chamado dos mares
+item.farmersdelightplus:candied_slime=Muco cristalizado
+item.farmersdelightplus:chilled_sweet_berry_juice=Succo de baga doce
+item.farmersdelightplus:chocolate_glazed_chicken=Frango com chocolate
+item.farmersdelightplus:chocolate_pancake=Panquecas de chocolate\n§9Agachar para colocar
+item.farmersdelightplus:cooked_pufferfish_slice=Filé de peixe cozido fugu
+item.farmersdelightplus:empty_pancake=Panqueca\n§9Agachar para colocar
+item.farmersdelightplus:festive_porkchop_with_berries=Carne de porco em xarope de baga
+item.farmersdelightplus:glow_ink_pasta=Pasta com tinta brilhante
+item.farmersdelightplus:heart_of_the_minotaur=Prato com o coração do Minotauro
+item.farmersdelightplus:honey_pancake=Panquecas em xarope de mel\n§9Agachar para colocar
+item.farmersdelightplus:honeyed_rice_with_berries=Arroz com mel e bagas doces
+item.farmersdelightplus:honeyed_rice_with_dragon_egg=Prato de arroz com ovo de dragão em molho de mel
+item.farmersdelightplus:lagman=Lagman
+item.farmersdelightplus:mashed_potatoes_with_meatballs=Puré de batata com costeletas
+item.farmersdelightplus:miners_drink=Bebida do mineiro
+item.farmersdelightplus:pancake_dough=Massa de panqueca
+item.farmersdelightplus:pho_soup=Sopa Fo
+item.farmersdelightplus:pufferfish_slice=Filé de fugu cru
+item.farmersdelightplus:raw_rice_noodle=Nouilles de riz crues
+item.farmersdelightplus:rice_dough=Massa de arroz
+item.farmersdelightplus:rice_flatbread=Fogaça de arroz
+item.farmersdelightplus:rice_pilaf=Plov
+item.farmersdelightplus:rice_with_frogspawn=Arroz com caviar de rã
+item.farmersdelightplus:risotto=Risotto
+item.farmersdelightplus:shining_salad=Salada brilhante
+item.farmersdelightplus:sparkling_potato=Batata brilhante
+item.farmersdelightplus:steak_with_golden_carrot=Bife com cenoura dourada
+item.farmersdelightplus:turtle_soup=Sopa de tartaruga
+
+item.farmersdelightplus:honeyed_rice_with_dragon_egg_block=Arroz com ovo de dragão em molho de mel
+item.farmersdelightplus:heart_of_the_minotaur_block=Coração do Minotauro
+
+farmersdelight.blockfood.farmersdelight:cooked_rice=Você precisa de arroz cozido para comer isto.

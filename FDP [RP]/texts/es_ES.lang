@@ -1,0 +1,51 @@
+pack.name=Farmer's Delight: Plus
+pack.description=For 1.26.0+, This addon is ported based on the original Java Edition mod Farmer's Delight: Plus and this work is licensed under the MIT License.
+
+tile.farmersdelightplus:berry_pancake_block.name=Pila de panqueques en jarabe de bayas
+tile.farmersdelightplus:chocolate_pancake_block.name=Pila de panqueques de chocolate
+tile.farmersdelightplus:empty_pancake_block.name=Pila de panqueques
+tile.farmersdelightplus:glow_berry_barrel.name=Barril de bayas brillantes
+tile.farmersdelightplus:golden_carrot_crate.name=Caja de zanahoria dorada
+tile.farmersdelightplus:honey_pancake_block.name=Pila de panqueques en jarabe de miel
+tile.farmersdelightplus:sugar_bag.name=Bolsa de azúcar
+tile.farmersdelightplus:sweet_berry_barrel.name=Barril de bayas dulces
+
+item.farmersdelightplus:assorted_pufferfish_in_tomato_sauce=Fugu surtido en salsa de tomate
+item.farmersdelightplus:berry_compote=Compota de bayas
+item.farmersdelightplus:berry_pancake=Panqueque en jarabe de bayas\n§9Agáchate para colocar
+item.farmersdelightplus:breaded_rice_balls=Bolas de arroz empanizadas
+item.farmersdelightplus:cactus_tea=Té de cactus
+item.farmersdelightplus:call_of_the_seas=La llamada de los mares
+item.farmersdelightplus:candied_slime=Limo confitado
+item.farmersdelightplus:chilled_sweet_berry_juice=Morse de bayas dulces
+item.farmersdelightplus:chocolate_glazed_chicken=Pollo en glaseado de chocolate
+item.farmersdelightplus:chocolate_pancake=Panqueque de chocolate\n§9Agáchate para colocar
+item.farmersdelightplus:cooked_pufferfish_slice=Filete de fugu cocido
+item.farmersdelightplus:empty_pancake=Panqueque\n§9Agáchate para colocar
+item.farmersdelightplus:festive_porkchop_with_berries=Carne de cerdo en jarabe de bayas
+item.farmersdelightplus:glow_ink_pasta=Pasta con tinta luminosa
+item.farmersdelightplus:heart_of_the_minotaur=Plato de corazón de Minotauro
+item.farmersdelightplus:honey_pancake=Panqueque en jarabe de miel\n§9Agáchate para colocar
+item.farmersdelightplus:honeyed_rice_with_berries=Arroz con miel y bayas dulces
+item.farmersdelightplus:honeyed_rice_with_dragon_egg=Plato de arroz con huevo de dragón en salsa de miel
+item.farmersdelightplus:lagman=Lagman
+item.farmersdelightplus:mashed_potatoes_with_meatballs=Puré de papas con chuletas
+item.farmersdelightplus:miners_drink=Bebida del minero
+item.farmersdelightplus:pancake_dough=Masa de panqueques
+item.farmersdelightplus:pho_soup=Sopa de Fo
+item.farmersdelightplus:pufferfish_slice=Filete de fugu crudo
+item.farmersdelightplus:raw_rice_noodle=Fideos de arroz crudos
+item.farmersdelightplus:rice_dough=Masa de arroz
+item.farmersdelightplus:rice_flatbread=Pan plano de arroz
+item.farmersdelightplus:rice_pilaf=Plov
+item.farmersdelightplus:rice_with_frogspawn=Arroz con caviar de rana
+item.farmersdelightplus:risotto=Risotto
+item.farmersdelightplus:shining_salad=Ensalada brillante
+item.farmersdelightplus:sparkling_potato=Patatas reluciente
+item.farmersdelightplus:steak_with_golden_carrot=Carne de zanahoria dorada
+item.farmersdelightplus:turtle_soup=Sopa de tortuga
+
+item.farmersdelightplus:honeyed_rice_with_dragon_egg_block=Arroz con huevo de dragón en miel
+item.farmersdelightplus:heart_of_the_minotaur_block=Corazón del Minotauro
+
+farmersdelight.blockfood.farmersdelight:cooked_rice=Necesitas arroz cocido para comer esto.

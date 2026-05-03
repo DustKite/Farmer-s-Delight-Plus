@@ -1,0 +1,51 @@
+pack.name=Farmer's Delight: Plus
+pack.description=For 1.26.0+, This addon is ported based on the original Java Edition mod Farmer's Delight: Plus and this work is licensed under the MIT License.
+
+tile.farmersdelightplus:berry_pancake_block.name=Stapel Pfannkuchen in Beerensirup
+tile.farmersdelightplus:chocolate_pancake_block.name=Stapel Pfannkuchen in Schokolade
+tile.farmersdelightplus:empty_pancake_block.name=Stapel Pfannkuchen
+tile.farmersdelightplus:glow_berry_barrel.name=Ein Fass mit leuchtenden Beeren
+tile.farmersdelightplus:golden_carrot_crate.name=Kiste mit goldenen Karotten
+tile.farmersdelightplus:honey_pancake_block.name=Stapel Pfannkuchen in Honigsirup
+tile.farmersdelightplus:sugar_bag.name=Eine Tüte Zucker
+tile.farmersdelightplus:sweet_berry_barrel.name=Ein Fass mit süßen Beeren
+
+item.farmersdelightplus:assorted_pufferfish_in_tomato_sauce=Verschiedene Fugues in Tomatensauce
+item.farmersdelightplus:berry_compote=Kompott aus Beeren
+item.farmersdelightplus:berry_pancake=Pfannkuchen in Beerensirup\n§9Schleichen zum Platzieren
+item.farmersdelightplus:breaded_rice_balls=Reisbällchen
+item.farmersdelightplus:cactus_tea=Kaktustee
+item.farmersdelightplus:call_of_the_seas=Ruf der Meere
+item.farmersdelightplus:candied_slime=Türkischer Honig
+item.farmersdelightplus:chilled_sweet_berry_juice=Süße Beerenmorse
+item.farmersdelightplus:chocolate_glazed_chicken=Huhn in Schokoladenglasur
+item.farmersdelightplus:chocolate_pancake=Pfannkuchen in Schokolade\n§9Schleichen zum Platzieren
+item.farmersdelightplus:cooked_pufferfish_slice=Gekochtes Fugu-Filet
+item.farmersdelightplus:empty_pancake=Pfannkuchen\n§9Schleichen zum Platzieren
+item.farmersdelightplus:festive_porkchop_with_berries=Schweinefleisch in Beerensirup
+item.farmersdelightplus:glow_ink_pasta=Paste mit leuchtender Tinte
+item.farmersdelightplus:heart_of_the_minotaur=Teller mit Minotaurus-Herz
+item.farmersdelightplus:honey_pancake=Pfannkuchen in Honigsirup\n§9Schleichen zum Platzieren
+item.farmersdelightplus:honeyed_rice_with_berries=Reis mit Honig und süßen Beeren
+item.farmersdelightplus:honeyed_rice_with_dragon_egg=Ein Teller Reis mit Drachenei in Honigsauce
+item.farmersdelightplus:lagman=Lagman
+item.farmersdelightplus:mashed_potatoes_with_meatballs=Kartoffelpüree mit Schnitzel
+item.farmersdelightplus:miners_drink=Das Getränk des Bergmanns
+item.farmersdelightplus:pancake_dough=Pfannkuchenteig
+item.farmersdelightplus:pho_soup=Suppe Pho
+item.farmersdelightplus:pufferfish_slice=Rohes Fugu-Filet
+item.farmersdelightplus:raw_rice_noodle=Rohe Reisnudeln
+item.farmersdelightplus:rice_dough=Reisteig
+item.farmersdelightplus:rice_flatbread=Reiskuchen
+item.farmersdelightplus:rice_pilaf=Pilau
+item.farmersdelightplus:rice_with_frogspawn=Reis mit Froschkaviar
+item.farmersdelightplus:risotto=Risotto
+item.farmersdelightplus:shining_salad=Funkelnder Salat
+item.farmersdelightplus:sparkling_potato=Funkelnde Kartoffeln
+item.farmersdelightplus:steak_with_golden_carrot=Steak mit goldenen Karotten
+item.farmersdelightplus:turtle_soup=Schildkröten-Chowder
+
+item.farmersdelightplus:honeyed_rice_with_dragon_egg_block=Reis mit Drachenei in Honigsauce
+item.farmersdelightplus:heart_of_the_minotaur_block=Das Herz des Minotaurus
+
+farmersdelight.blockfood.farmersdelight:cooked_rice=Du benötigst gekochten Reis, um dies zu essen.

@@ -1,0 +1,51 @@
+pack.name=Farmer's Delight: Plus
+pack.description=For 1.26.0+, This addon is ported based on the original Java Edition mod Farmer's Delight: Plus and this work is licensed under the MIT License.
+
+tile.farmersdelightplus:berry_pancake_block.name=Pila di pancake allo sciroppo di bacche
+tile.farmersdelightplus:chocolate_pancake_block.name=Pila di pancake al cioccolato
+tile.farmersdelightplus:empty_pancake_block.name=Pila di pancake
+tile.farmersdelightplus:glow_berry_barrel.name=Barile di bacche luminose
+tile.farmersdelightplus:golden_carrot_crate.name=Scatola di carote d'oro
+tile.farmersdelightplus:honey_pancake_block.name=Pila di pancake allo sciroppo di miele
+tile.farmersdelightplus:sugar_bag.name=Sacchetto di zucchero
+tile.farmersdelightplus:sweet_berry_barrel.name=Botte di bacche dolci
+
+item.farmersdelightplus:assorted_pufferfish_in_tomato_sauce=Fugu assortito in salsa di pomodoro
+item.farmersdelightplus:berry_compote=Composta di bacche
+item.farmersdelightplus:berry_pancake=Pancake allo sciroppo di bacche\n§9Furtivo per posizionare
+item.farmersdelightplus:breaded_rice_balls=Palline di riso
+item.farmersdelightplus:cactus_tea=Tè di cactus
+item.farmersdelightplus:call_of_the_seas=Il richiamo dei mari
+item.farmersdelightplus:candied_slime=Gelatina di frutta
+item.farmersdelightplus:chilled_sweet_berry_juice=Succo di bacche dolci
+item.farmersdelightplus:chocolate_glazed_chicken=Pollo ricoperto di cioccolato
+item.farmersdelightplus:chocolate_pancake=Pancake al cioccolato\n§9Furtivo per posizionare
+item.farmersdelightplus:cooked_pufferfish_slice=Filetto di Fugu cotto
+item.farmersdelightplus:empty_pancake=Pancake\n§9Furtivo per posizionare
+item.farmersdelightplus:festive_porkchop_with_berries=Maiale in sciroppo di bacche
+item.farmersdelightplus:glow_ink_pasta=Pasta con inchiostro luminoso
+item.farmersdelightplus:heart_of_the_minotaur=Piatto con cuore di Minotaure
+item.farmersdelightplus:honey_pancake=Pancake allo sciroppo di miele\n§9Furtivo per posizionare
+item.farmersdelightplus:honeyed_rice_with_berries=Riso con miele e bacche dolci
+item.farmersdelightplus:honeyed_rice_with_dragon_egg=Riso all'uovo di drago glassato al miele
+item.farmersdelightplus:lagman=Lagman
+item.farmersdelightplus:mashed_potatoes_with_meatballs=Purè di patate con polpette
+item.farmersdelightplus:miners_drink=Bevanda del minatore
+item.farmersdelightplus:pancake_dough=Pastella per pancake
+item.farmersdelightplus:pho_soup=Zuppa di Pho
+item.farmersdelightplus:pufferfish_slice=Filetto di Fugu crudo
+item.farmersdelightplus:raw_rice_noodle=Tagliatelle di riso crude
+item.farmersdelightplus:rice_dough=Impasto di riso
+item.farmersdelightplus:rice_flatbread=Focaccia di riso
+item.farmersdelightplus:rice_pilaf=Pilaf
+item.farmersdelightplus:rice_with_frogspawn=Riso con uova di rana
+item.farmersdelightplus:risotto=Risotto
+item.farmersdelightplus:shining_salad=Insalata scintillanti
+item.farmersdelightplus:sparkling_potato=Patate scintillanti
+item.farmersdelightplus:steak_with_golden_carrot=Bistecca con carote dorate
+item.farmersdelightplus:turtle_soup=Zuppa di tartaruga
+
+item.farmersdelightplus:honeyed_rice_with_dragon_egg_block=Riso con uovo di drago in salsa di miele
+item.farmersdelightplus:heart_of_the_minotaur_block=Il cuore del Minotauro
+
+farmersdelight.blockfood.farmersdelight:cooked_rice=Hai bisogno di riso cotto per mangiarlo.
