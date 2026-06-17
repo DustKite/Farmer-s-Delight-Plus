@@ -104,9 +104,6 @@ const CookingPotRecipes = [
         "result": {
             "item": "farmersdelightplus:breaded_rice_balls",
             "count": 2
-        },
-        "container": {
-            "item": "minecraft:air"
         }
     },
     {
@@ -134,9 +131,6 @@ const CookingPotRecipes = [
         "result": {
             "item": "farmersdelightplus:candied_slime",
             "count": 1
-        },
-        "container": {
-            "item": "minecraft:air"
         }
     },
     {
@@ -258,9 +252,14 @@ const CookingPotRecipes = [
         "time": 300,
         "experience": 1.0,
         "ingredients": [
-            {
-                "item": "minecraft:beef"
-            },
+            [
+                {
+                    "item": "minecraft:beef"
+                },
+                {
+                    "tag": "farmersdelight:is_raw_beef"
+                }
+            ],
             {
                 "item": "farmersdelight:mutton_chops"
             },
@@ -414,7 +413,7 @@ const CookingPotRecipes = [
                 }
             ],
             {
-                "tag": "farmersdelightplus:raw_rice_noodle"
+                "item": "farmersdelightplus:raw_rice_noodle"
             },
             {
                 "tag": "farmersdelight:is_onion"
@@ -595,7 +594,7 @@ const CookingPotRecipes = [
             "count": 1
         },
         "container": {
-            "item": "minecraft:scute"
+            "item": "minecraft:turtle_scute"
         }
     }
 ];
